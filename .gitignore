@@ -1,0 +1,9 @@
+# Cypress
+/node_modules/
+/cypress/videos/
+/cypress/screenshots/
+/cypress/fixtures/
+
+# Application-specific
+/.env
+/cypress.env.json

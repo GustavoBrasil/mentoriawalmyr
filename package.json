@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^12.17.4",
+    "faker": "^6.6.6"
+  },
+  "name": "mentoria-walmyr-aula01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "Gustavo Brasil",
+  "license": "ISC",
+  "description": ""
+}
